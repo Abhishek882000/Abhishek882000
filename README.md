@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Kumar
+- 👋 Hi, I’m Abhishek Kumar Jha
 - 👀 I’m interested in Android & Web Development
 - 🌱 I’m currently learning AngularJs
 - 💞️ I’m looking to collaborate on Freelancing Projects
